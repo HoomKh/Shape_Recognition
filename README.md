@@ -1,6 +1,9 @@
 # Shape Recognition
 
-![Shape Recognition](sandbox:/mnt/data/A_detailed_image_showing_the_process_of_importing_.png)
+<div style="text-align: center;">
+    <img src="makdown_images/banner.jpg" style="width:600px;height:350px;">
+</div>
+
 
 Welcome to the Shape Recognition repository! This project demonstrates a machine learning workflow for recognizing geometric shapes (triangle, star, square, circle) using neural networks implemented with TensorFlow and Keras.
 
