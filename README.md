@@ -42,43 +42,57 @@ Follow these steps to run the project:
 
 1. **Import Libraries**
 
-    ![Importing Libraries](sandbox:/mnt/data/A_detailed_image_showing_the_process_of_importing_.png)
+    <div style="text-align: center;">
+        <img src="makdown_images/packages.jpg" style="width:600px;height:350px;">
+    </div>
 
     Import all the necessary libraries for the project.
 
 2. **Load and Process the Dataset**
 
-    ![Load and Process the Dataset](sandbox:/mnt/data/A_detailed_image_showing_the_process_of_loading_an.png)
+    <div style="text-align: center;">
+        <img src="makdown_images/LoadData.jpg" style="width:600px;height:350px;">
+    </div>
 
     Load images from the dataset, resize them, and label them according to their folder names.
 
 3. **Flatten Data**
 
-    ![Flatten Data](sandbox:/mnt/data/A_detailed_image_illustrating_the_process_of_flatt.png)
+    <div style="text-align: center;">
+        <img src="makdown_images/flatten.jpg" style="width:600px;height:350px;">
+    </div>
 
     Convert the images into flattened vectors for model input.
 
 4. **Split to Train and Test**
 
-    ![Split to Train and Test](sandbox:/mnt/data/A_detailed_image_illustrating_the_process_of_split.png)
+    <div style="text-align: center;">
+        <img src="makdown_images/TrainTest.jpg" style="width:600px;height:350px;">
+    </div>
 
     Split the dataset into training and testing sets (80% train, 20% test).
 
 5. **Define and Train the Model**
 
-    ![Model (TensorFlow)](sandbox:/mnt/data/A_detailed_image_illustrating_the_process_of_defin.png)
-
+    <div style="text-align: center;">
+        <img src="makdown_images/Model.jpg" style="width:600px;height:350px;">
+    </div>
+    
     Build and train a neural network model using TensorFlow and Keras.
 
 6. **Plot Training & Validation Accuracy and Loss**
 
-    ![Plot Training & Validation Accuracy and Loss](sandbox:/mnt/data/A_detailed_image_showing_the_plotting_of_training_.png)
+    <div style="text-align: center;">
+        <img src="makdown_images/training.jpg" style="width:600px;height:350px;">
+    </div>
 
     Plot the training and validation accuracy and loss over epochs to visualize the model's performance.
 
 7. **Prediction**
 
-    ![Prediction](sandbox:/mnt/data/A_detailed_image_illustrating_the_process_of_makin.png)
+    <div style="text-align: center;">
+        <img src="makdown_images/prediction.jpg" style="width:600px;height:350px;">
+    </div>
 
     Use the trained model to make predictions on new images and evaluate the results.
 
@@ -93,6 +107,10 @@ The model is a Sequential neural network with the following layers:
 
 ## Results
 
+<div style="text-align: center;">
+    <img src="makdown_images/result.jpg" style="width:600px;height:350px;">
+</div>
+
 The model is evaluated using accuracy and loss metrics. Training and validation accuracy and loss are plotted to assess the performance of the model. Predictions on new images are demonstrated to verify the model's accuracy.
 
 ## Contributing
@@ -105,4 +123,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to customize this README further according to your project's specific details and requirements.
