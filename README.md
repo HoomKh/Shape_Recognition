@@ -1,7 +1,7 @@
 # Shape Recognition
 
 <div style="text-align: center;">
-    <img src="makdown_images/banner.jpg" style="width:600px;height:350px;">
+    <img src="makdown_images/banner.jpg" style="width:950px;height:450px;">
 </div>
 
 
